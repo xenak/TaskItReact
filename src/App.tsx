@@ -28,7 +28,7 @@ export class App extends React.Component<{}, AppState> {
     constructor(props: Readonly<{}>) {
         super(props);
         this.state = {
-            items: [],
+            items: []
         };
     }
 
